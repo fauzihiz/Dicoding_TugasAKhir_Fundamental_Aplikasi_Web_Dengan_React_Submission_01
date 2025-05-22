@@ -147,6 +147,10 @@ button:last-of-type:hover {
   margin-bottom: 0;
 }
 
+#noteDetail {
+  text-align: left;
+}
+
 #activeNote {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
